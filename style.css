@@ -44,6 +44,9 @@ contact form{
     display: flex;
     flex-direction: column;
     gap: 10px;
+    maxx-width: 400px;
+    margin: auto;
+}
 
 footer {
     background-color: rgb(238, 255, 0);
@@ -52,3 +55,4 @@ footer {
     padding: 5px 0;
 
 }
+
